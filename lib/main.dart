@@ -13,7 +13,6 @@ class CarliMessage extends StatelessWidget {
       title: 'Respond to Carli',
       theme: ThemeData(
         primarySwatch: Colors.red,
-        buttonColor: Colors.red[100],
       ),
       home: HomeScreen(),
     );

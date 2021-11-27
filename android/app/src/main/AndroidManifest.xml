@@ -2,6 +2,8 @@
     package="com.example.carli_message">
    <application
         android:label="Carli Message"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
